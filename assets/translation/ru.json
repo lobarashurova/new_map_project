@@ -1,0 +1,17 @@
+{
+  "language" : "Выберите язык",
+  "uzbek" : "узбекский",
+  "english" : "английский",
+  "russian" : "русский",
+  "register" : "Зарегистрироваться",
+  "firstname": "Имя",
+  "lastname": "Фамилия",
+  "phone": "Номер телефона",
+  "password" : "пароль",
+  "conPas": "Confirm Password",
+  "ads": "New ads",
+  "title": "Title",
+  "description": "Description"
+
+
+}

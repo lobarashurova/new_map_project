@@ -1,0 +1,15 @@
+{
+  "language": "Choose a language",
+  "uzbek": "uzbek",
+  "english": "english",
+  "russian": "russian",
+  "register": "Sign up",
+  "firstname": "Fist Name",
+  "lastname": "Last Name",
+  "phone": "Phone number",
+  "password": "Password",
+  "conPas": "Confirm Password",
+  "ads": "New ads",
+  "title": "Title",
+  "description": "Description"
+}
